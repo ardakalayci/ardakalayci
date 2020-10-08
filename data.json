@@ -1,0 +1,73 @@
+{
+  "product": "Yontm Kurulu",
+  "version": 0.18,
+  "purchases": [
+    {
+      "department": "Dijital Dönüşüm",
+      "pieces": "20",
+      "firma": "Geka",
+      "price": "3728.60₺",
+      "items": [
+        {
+          "name": "Cat40",
+          "category": "Network Ekipmanları",
+          "price": "75₺"
+        },
+        {
+          "name": "Macbook Pro",
+          "category": "Yazılım Ekipmanları",
+          "price": "22560₺"
+        },
+        {
+          "name": "Dell 1830 AIO",
+          "category": "Yazılım Ekipmanları",
+          "price": "11560₺"
+        }
+        ,
+        {
+          "name": "Samsung 1845 ",
+          "category": "Yazılım Ekipmanları",
+          "price": "1560₺"
+        }
+      ]
+    },
+    {
+      "department": "Gedik Sanat",
+      "pieces": "3",
+      "firma": "Geka",
+      "price": "3728.60₺",
+      "items": [
+        {
+          "name": "Arşiv Kayıt Tutanağı",
+          "category": "Tutanak",
+          "price": "189₺"
+        },
+        {
+          "name": "Katibin Kiramen",
+          "category": "Barut",
+          "price": "55₺"
+        }
+
+      ]
+    },
+    {
+      "department": "Kaynak Atölyesi",
+      "pieces": "14",
+      "firma": "Geka",
+      "price": "1299.60₺",
+      "items": [
+        {
+          "name": "Elektrot 320 mm",
+          "category": "Kaynak Ekipmanları",
+          "price": "960₺"
+        },
+        {
+          "name": "180Lt Makine",
+          "category": "Kaynak Ekipmanları",
+          "price": "2560₺"
+        }
+
+      ]
+    }
+  ]
+}
