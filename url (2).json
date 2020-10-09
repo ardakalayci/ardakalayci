@@ -8,7 +8,7 @@
     },
      {
       "origin_paramater": "radyogedik1",
-      "short_url": "https://apps.apple.com/us/app/radyo-gedik-canl%C4%B1-dinle/id1447079740"
+      "short_url": "http://gedik.edu.tr"
     },
     {
       "origin_paramater": "gedik",
@@ -21,6 +21,10 @@
     {
       "origin_paramater": "uni",
       "short_url": "http://gedik.edu.tr"
+    },
+    {
+      "origin_paramater": "radyo",
+      "short_url": "https://apps.apple.com/us/app/radyo-gedik-canl%C4%B1-dinle/id1447079740"
     },
     {
       "origin_paramater": "bzc",
