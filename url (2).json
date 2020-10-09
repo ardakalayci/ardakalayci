@@ -1,14 +1,30 @@
 {
-  "product": "Yontm Kuruluaaaaa",
-  "version": 0.18,
+  "product": "url_arda",
+  "version": 18,
   "shortened": [
     {
       "origin_paramater": "1212",
       "short_url": "http://cloud.akalayci.com/#/HOME"
     },
      {
-      "origin_paramater": "1",
+      "origin_paramater": "arda",
       "short_url": "http://cloud.akalayci.com/#/HOaaME"
+    },
+    {
+      "origin_paramater": "gedik",
+      "short_url": "http://gedik.com.tr"
+    },
+    {
+      "origin_paramater": "linkedin",
+      "short_url": "https://www.linkedin.com"
+    },
+    {
+      "origin_paramater": "uni",
+      "short_url": "http://gedik.edu.tr"
+    },
+    {
+      "origin_paramater": "bzc",
+      "short_url": "https://www.linkedin.com/in/bzc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3BrReE4a2LTiSIlsn2Khqtfg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_people_connections-connection_profile"
     }
     
 
