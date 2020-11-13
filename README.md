@@ -21,3 +21,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ardakalayci&show_icons=true)  
 ![Profile views](https://gpvc.arturio.dev/ardakalayci)  
 Arda Kalaycı
+
+https://www.gedik.edu.tr/?s=arda+kalayc%C4%B1+akalayci.com
