@@ -22,4 +22,4 @@
 ![Profile views](https://gpvc.arturio.dev/ardakalayci)  
 Arda Kalaycı
 
-https://www.gedik.edu.tr/?s=arda+kalayc%C4%B1+akalayci.com
+https://www.gedik.edu.tr/hakkimizda/idari-birimler/bilgi-islem-daire-baskanligi/birim-yonetimi
