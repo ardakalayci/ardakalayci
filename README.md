@@ -10,10 +10,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-- 🔭 I’m currently working on Flutter / Dart Junior Developer
-- 🌱 I’m currently learning GraphQl
-- 💬 Ask me about flutter 
-- 📫 How to reach me: klayc.arda@gmail.com 
+- 🔭 I’m currently working on Mobile Developer
+- 🌱 I’m currently learning Solidity
+- 💬 Ask me about mobile
+- 📫 How to reach me: arda@akalayci.com
 
 
 
